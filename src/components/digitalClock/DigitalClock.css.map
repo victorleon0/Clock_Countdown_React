@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,sBAAsB,CAAC;EAEnB,OAAO,EAAE,IAAI;EAGb,eAAe,EAAE,MAAM;EACvB,OAAO,EAAE,GAAG;EACZ,gBAAgB,EAAE,OAAO;CAM5B;;AAbD,AAQI,sBARkB,CAQlB,aAAa,CAAC;EACV,KAAK,EAAE,UAAU;EACjB,cAAc,EAAE,MAAM;CACzB",
+    "sources": [
+        "DigitalClock.scss"
+    ],
+    "names": [],
+    "file": "DigitalClock.css"
+}
